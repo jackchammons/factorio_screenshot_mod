@@ -1,0 +1,10 @@
+{
+  "name": "screenshot",
+  "version": "0.1.1",
+  "factorio_version":"0.13",
+  "title": "hscreenshot mod",
+  "author": "jack",
+  "contact": "jackhammons@gmail.com",
+  "homepage": "www.jackhammons.com",
+  "description": "Mod takes a tiled screenshot"
+}
