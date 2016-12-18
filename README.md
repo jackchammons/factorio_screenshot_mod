@@ -9,3 +9,5 @@ Game save must have been loaded before
 Mod will take a tiled screenshot at the dimensions specified in the top of control.lua on game launch
 
 Use combine_images.sh to render the final output
+
+I'm using Factorio version 13.20
