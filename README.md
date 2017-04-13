@@ -1,6 +1,6 @@
 # Factorio Screenshot Mod
 
-##Instructions
+## Instructions
 
 1. Place `control.lau` and `info.json` in `\factorio\mods\screenshot_0.1.1\`
 
@@ -10,7 +10,7 @@
 
 4. Run `combine_images.sh` in `\factorio\script-output\` to render the final output
 
-##Notes
+## Notes
 
 Game save must have been loaded before
 
